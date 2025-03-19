@@ -42,7 +42,7 @@
      ```
 
 2. **Setting Up the Project**:
-   - Clone the Repository: `git clone https://github.com/emilygregoryy/Bookstore-Project.git` then `cd OnlineBookstoreProject`
+   - Clone the Repository: `git clone https://github.com/JessicaCodesx/OnlineBookstore.git` then `cd OnlineBookstoreProject`
    - Install Dependencies:
      - For the backend: `cd backend && npm install`
      - For the frontend: `cd ../frontend && npm install`
